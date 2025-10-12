@@ -2,7 +2,7 @@
 set -e
 python3 updater.py
 if [ ! -d bot-code ]; then
-  echo "❌ bot-code directory not found!"
+  echo "bot-code directory not found!"
   exit 1
 fi
 cd bot-code
