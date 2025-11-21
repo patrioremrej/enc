@@ -2,3 +2,4 @@ python-dotenv
 pytz
 telegraph
 httpx
+uvloop==0.21.0
