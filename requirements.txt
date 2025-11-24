@@ -1,5 +1,7 @@
+aiohttp
+httpx
 python-dotenv
 pytz
 telegraph
-httpx
+tenacity
 uvloop==0.21.0
