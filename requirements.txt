@@ -1,5 +1,4 @@
 aiohttp
-httpx
 python-dotenv
 pytz
 telegraph
